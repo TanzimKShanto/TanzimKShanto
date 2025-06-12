@@ -1,8 +1,8 @@
-[![An image of @tanxim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
+<h1 align="center">Hi 👋, I'm Tanzim Khan Shanto</h1>
 
 # 💫 About Me
 
-👋 Hi, I’m Tanzim Khan Shanto<br>💻 Self-taught developer | Competitive Programmer (Codeforces Expert)<br>🌐 Practicing Full Stack Development with Next.js & Firebase<br>🔧 I build fast, functional apps using Python, C++, React, and more<br>🚀 Passionate about solving real-world problems & sharing what I learn<br>📫 Reach me at: <tanzimk.shanto@gmail.com>
+💻 Self-taught developer | Competitive Programmer (Codeforces Expert)<br>🌐 Practicing Full Stack Development with Next.js & Firebase<br>🔧 I build fast, functional apps using Python, C++, React, and more<br>🚀 Passionate about solving real-world problems & sharing what I learn<br>📫 Reach me at: <tanzimk.shanto@gmail.com>
 
 ## 🌐 Socials
 
@@ -29,4 +29,5 @@
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanxim)
 
+[![An image of @tanxim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
