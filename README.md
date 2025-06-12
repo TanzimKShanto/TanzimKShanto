@@ -5,10 +5,10 @@
 
 ## 💫 About Me <img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
 
-* 💻 Self-taught developer | Competitive Programmer (Codeforces Expert)
-* 🌐 Practicing Full Stack Development with Next.js & Firebase
-* 🔧 I build fast, functional apps using Python, C++, React, and more
-* 🚀 Passionate about solving real-world problems & sharing what I learn
+* 💻 Self-taught dev | Codeforces Expert
+* 🌐 Practicing Full Stack Development with Next.js
+* 🔧 I build fast, functional apps using Python, C++, React
+* 🚀 Love solving problems & sharing insights
 * 📫 Reach me at: <tanzimk.shanto@gmail.com>
 
 </br>
