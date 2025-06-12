@@ -24,8 +24,6 @@
   
 </div>
 
------
-
 # 📊 GitHub Stats
 
 </br>
@@ -33,13 +31,14 @@
 
 <p align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tanxim&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" />
+<img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api?username=tanxim&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" />
 
 <img height="150px" src="https://nirzak-streak-stats.vercel.app/?user=tanxim&theme=catppuccin_mocha&hide_border=false" />
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxim&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   
 </p>
+</br>
 
 ### ✍️ Random Dev Quote
 
