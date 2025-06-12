@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanzim Khan Shanto</h1>
 
-## 💫 About Me
-
-<img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
+## 💫 About Me <img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
 
 * 💻 Self-taught developer | Competitive Programmer (Codeforces Expert)
 * 🌐 Practicing Full Stack Development with Next.js & Firebase
