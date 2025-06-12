@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanzim Khan Shanto</h1>
 
+</br>
+</br>
+
 ## 💫 About Me <img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
 
 * 💻 Self-taught developer | Competitive Programmer (Codeforces Expert)
@@ -13,6 +16,9 @@
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzimk.shanto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TanzimK.Shanto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TanzimK-Shanto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanzimK_Shanto)
+
+</br>
+</br>
 
 # 💻 Tech Stack
 
