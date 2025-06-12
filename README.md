@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="gif" src="/gifs/hero.gif" />
+<img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
 
 * 💻 Self-taught developer | Competitive Programmer (Codeforces Expert)
 * 🌐 Practicing Full Stack Development with Next.js & Firebase
