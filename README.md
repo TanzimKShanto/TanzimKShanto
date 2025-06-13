@@ -39,6 +39,10 @@
 </p>
 </br>
 
+[![An image of @tanxim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
+
+<img src="https://raw.githubusercontent.com/tanxim/tanxim/output/snake.svg" alt="Snake animation" />
+
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzimk.shanto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TanzimK.Shanto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TanzimK-Shanto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanzimK_Shanto)
@@ -47,7 +51,4 @@
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanxim)
 
-<img src="https://raw.githubusercontent.com/tanxim/tanxim/output/snake.svg" alt="Snake animation" />
-
-[![An image of @tanxim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
