@@ -35,7 +35,7 @@
 </br>
 </br>
 
-[![An image of @tanzimkshanto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanzimkshanto)](https://holopin.io/@tanzimkshanto)
+[![An image of @tanzimkshanto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
 
 <img src="https://raw.githubusercontent.com/tanzimkshanto/tanzimkshanto/output/snake.svg" alt="Snake animation" />
 
