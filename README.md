@@ -29,15 +29,15 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanxim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanxim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzimkshanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzimkshanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 </br>
 </br>
 
-[![An image of @tanxim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxim)](https://holopin.io/@tanxim)
+[![An image of @tanzimkshanto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanzimkshanto)](https://holopin.io/@tanzimkshanto)
 
-<img src="https://raw.githubusercontent.com/tanxim/tanxim/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tanzimkshanto/tanzimkshanto/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials
 
@@ -52,6 +52,6 @@
 
 ## 💰 You can help me by Donating
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanxim)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanzimkshanto)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
