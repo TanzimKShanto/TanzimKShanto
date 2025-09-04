@@ -6,6 +6,7 @@
 </br>
 
 ## 💫 About Me <img align="right" alt="gif" width="410px" src="/gifs/hero.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzimkshanto&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tanzimkshanto" /> </p>
 
 * 💻 Self-taught dev | Codeforces Expert
 * 🌐 Practicing Full Stack Development with Next.js
