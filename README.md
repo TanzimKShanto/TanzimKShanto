@@ -12,7 +12,7 @@
 * 🌐 Practicing Full Stack Development with Next.js
 * 🔧 I build fast, functional apps using Python, C++, React
 * 🚀 Love solving problems & sharing insights
-* 📫 Reach me at: <tanzimk.shanto@gmail.com>
+* 📫 Reach me at: <tanzim@tanzimkshanto.dev>
 
 </br>
 
